@@ -169,6 +169,7 @@ This project demonstrates practical implementation of:
 * Advanced search and filtering
 
 ## Author
+Shagun Gupta
 
 **Shagun Gupta**
 
